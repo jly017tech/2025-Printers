@@ -1,7 +1,7 @@
 <h1>Printers Deployment</h1>
 
 <ul>
-  <li>Canon printer drive</li>
+  <li>HP printer drive: HP LaserJet Enterprise MFP M431 series</li>
 </ul>
 
 
@@ -16,3 +16,7 @@
 
 
 <img width="1352" height="719" alt="image" src="https://github.com/user-attachments/assets/697ba89f-91a6-4536-92f9-93374ba996f4" />
+
+
+
+<img width="1390" height="712" alt="image" src="https://github.com/user-attachments/assets/82ec3032-4851-4c96-af52-943d4f85c825" />
